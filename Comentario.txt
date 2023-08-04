@@ -1,0 +1,1 @@
+1) Pierdo el token al editar el usuario, lo cual es logico, ya que estoy usando el mismo datasource tanto para el logueo como para la manipulacion de la tabla, lo cual en el proyecto final no es asi.
